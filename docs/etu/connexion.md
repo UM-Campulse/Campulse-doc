@@ -40,7 +40,7 @@ Si vous êtes membre d'une ou plusieurs commissions, vous devez vous y rattacher
 ---
 
 Si vous êtes membre d'une ou plusieurs associations, vous pouvez vous y affilier dès cette étape.  
-[Détails à retrouver ici](/etu/association).
+[Détails à retrouver ici](/etu/affiliation-asso).
 
 ![Association](/images/association.png)
 
@@ -104,7 +104,7 @@ Si vous êtes membre d'une ou plusieurs commissions, vous devez vous y rattacher
 ---
 
 Si vous êtes membre d'une ou plusieurs associations, vous pouvez vous y rattacher dès cette étape.  
-[Détails à retrouver ici](/etu/association).
+[Détails à retrouver ici](/etu/affiliation-asso).
 
 ![Association externe](/images/association-externe.png)
 
