@@ -34,7 +34,7 @@ De même, pour une nouvelle association, la création de celle-ci sur la platefo
 
 
 Il ne peut y avoir qu'un seul président. Celui-ci peut toutefois déléguer ses droits à un autre membre de son association.
-[Détails à retrouver ici](/core/association).
+[Détails à retrouver ici](/etu/delegation-presidence).
 
 ---
 
