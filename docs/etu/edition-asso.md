@@ -5,7 +5,7 @@
 ::: warning ATTENTION !
 
 L'édition de la fiche association incombe au président de l'association. Celui-ci peut toutefois déléguer ses droits de présidence à un autre membre de son association, afin qu'il y procède.
-[Détails à retrouver ici](/etu/association).
+[Détails à retrouver ici](/etu/delegation-presidence).
 :::
 
 Dans votre tableau de bord (accessible via "Mon compte > Mon espace"), cliquez sur "GÉRER [NOM DE L'ASSOCIATION]" puis "MODIFIER LA FICHE DE L'ASSOCIATION".
