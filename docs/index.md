@@ -18,7 +18,7 @@ hero:
 
     - theme: alt
       text: Membre de commission
-      link: /membre/connexion	
+      link: /etu/connexion	
 
 	  
 
