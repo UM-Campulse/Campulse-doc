@@ -140,6 +140,6 @@ Vous pourrez alors télécharger un récapitulatif de votre projet au format PDF
 
 ![Projet soumis](/images/projet-soumis.png)
 
-## 2. porteur individuel ?
+## 2. Porteur individuel 
 
-à compléter si nécessaire
+Ne peuvent être pris en compte les projets dits individuels proposés par un étudiant non membre d’une association (en revanche, un contact peut être pris auprès d’une association étudiante afin qu’elle porte le projet de l’étudiant non membre). 
