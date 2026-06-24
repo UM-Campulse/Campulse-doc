@@ -3,7 +3,7 @@
 ## L'obtention d'un financement vous engage à fournir un bilan moral et financier de votre projet.
 
 :::danger SOUS QUEL DÉLAI ?
-Le responsable d'un projet dispose de 2 mois maximum, une fois son action réalisée, pour fournir son bilan moral et financier.
+Le responsable d'un projet dispose de 15 jours maximum, une fois son action réalisée, pour fournir son bilan moral et financier.
 :::
 
 :::warning ATTENTION !
