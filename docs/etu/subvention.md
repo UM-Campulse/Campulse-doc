@@ -10,7 +10,7 @@ Celle-ci pourra néanmoins vous être affectée afin que vous puissiez en poursu
 :::
 
 :::warning ATTENTION !
-Pour les fonds CVEC, la signature de la charte des associations étudiantes et la bonne lecture des règlements intérieurs disponibles dans la bibliothèque de documents sont un prérequis pour accéder à la soumission de projets. 
+Pour les fonds FSDIE, la signature de la charte des associations étudiantes et la bonne lecture des règlements intérieurs disponibles dans la bibliothèque de documents sont un prérequis pour accéder à la soumission de projets. 
 
 :::
 
