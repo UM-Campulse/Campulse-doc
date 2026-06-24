@@ -21,9 +21,7 @@ Sélectionnez votre association dans la liste déroulante et cochez votre rôle 
 
 ![Roles actuels](/images/roles-actuels.png)
 
-::: danger
-
-**VOTRE ASSOCIATION N'APPARAÎT PAS DANS LA LISTE ?**
+::: danger **VOTRE ASSOCIATION N'APPARAÎT PAS DANS LA LISTE ?**
 
 Le nombre de membres par association sur la plateforme est limité à 4, par défaut.
 
