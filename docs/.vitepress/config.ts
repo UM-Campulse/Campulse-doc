@@ -39,7 +39,7 @@ export default defineConfig({
           { text: 'Affiliation à une association', link: '/etu/affiliation-asso' },
 		  { text: 'Edition de la fiche association', link: '/etu/edition-asso' },
           { text: 'Délégation de présidence', link: '/etu/delegation-presidence' },
-          { text: "Demande d'agrément", link: '/etu/agrement' },
+          { text: "Dépôt de la charte", link: '/etu/agrement' },
 		  { text: 'Demande de subvention', link: '/etu/subvention' },
           { text: "Avancement d'un projet", link: '/etu/avancement-projet' },
           { text: "Bilan moral et financier", link: '/etu/bilan' }
