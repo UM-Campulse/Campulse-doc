@@ -3,7 +3,7 @@
 ## Certains services sont soumis à l'obtention d'un agrément, comme la Charte des associations étudiantes de l'Université de Montpellier.
 
 ::: warning ATTENTION !
-Pour les fonds CVEC, la signature de la charte des associations étudiantes et la bonne lecture des règlements intérieurs disponibles dans la bibliothèque de documents sont un prérequis pour accéder à la soumission de projets.
+Pour les fonds FSDIE, la signature de la charte des associations étudiantes et la bonne lecture des règlements intérieurs disponibles dans la bibliothèque de documents sont un prérequis pour accéder à la soumission de projets.
 :::
 
 Allez dans l'espace "CHARTE" et cliquez sur "TÉLÉCHARGER LES DOCUMENTS TYPES" pour accéder aux documents nécessaires à votre demande d'agrément.
@@ -13,9 +13,11 @@ Allez dans l'espace "CHARTE" et cliquez sur "TÉLÉCHARGER LES DOCUMENTS TYPES" 
 
 Sont notamment à y retrouver :
 
-- à compléter ;
-- à compléter ;
-- à compléter
+- la charte des associations et des évènements festifs ;
+- la présentation projet FSDIE
+- la chronologie de demande FSDIE ;
+- le budget prévisionnel FSDIE
+- le guide pour les remboursements et le bilan FSDIE
 
 
 ---
@@ -70,14 +72,13 @@ Ci-dessous les champs à renseigner à chaque étape :
 #### 2. Dépôt de documents
 
 - Charte de l'Université signée
-- Formulaire RGPD de l'UM signé
 - Copie des statuts à jour de l'association [statuts fondateurs pour une association nouvellement créée]
+- L'avis de situation SIRET
 - Procès Verbal de la dernière Assemblée Générale [Assemblée Générale Constitutive pour une association nouvellement créée] incluant la liste complète des membres élus de l'association
-- Copie des certificats de scolarité des membres élus de l'association
+- Copie de la déclaration au journal officiel
 - Preuve de dépôt des papiers au Tribunal d'Instance à la suite de la dernière AG, Certificat et Extrait du registre des associations dans un délai de 3 mois
 - Récépissé de souscription à une assurance "Responsabilité Civile"
-- Bilan moral et financier de l'association provenant de la fin du précédent mandat (uniquement pour une association non nouvellement créée)
-- Attestation, par au moins un membre du bureau, de suivi de la formation relative à la lutte contre les discriminations ou le bizutage (uniquement pour une association non nouvellement créée)
+
 
 #### 3. Récapitulatif
 
