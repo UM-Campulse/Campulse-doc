@@ -10,7 +10,7 @@ Vous pouvez valider ou non la signature d'une charte.
 Allez dans l'espace "CHARTE" et cliquez sur "VALIDER LES SIGNATURES DE CHARTES".
 
 
-
+![Valider charte](/images/chartesAValider.png)
 
 ::: warning ATTENTION ! 
 
@@ -25,6 +25,8 @@ Cliquez sur "GÉRER" et accédez, pour une charte au statut "Charte en cours de 
 
 - Voir la charte
 
+![Valider charte](/images/charteEnCours.png)
+
 ### Valider une charte
 
 Cliquez sur "GÉRER" puis "Valider la charte".
@@ -37,8 +39,12 @@ Vous pouvez :
 - demander des informations complémentaires ;
 - refuser la charte.
 
+![Refuser charte](/images/valider.png)
+
 :::warning ATTENTION ! 
 Un commentaire est obligatoire en cas de demande d'informations complémentaires, la charte étant renvoyée à l'association pour modification.
+
+![Commentaire charte](/images/com_charte.png)
 :::
 
 
