@@ -10,5 +10,5 @@ L'application a également pour vocation de faciliter la relation entre les stru
 **Trois services sont proposés  :**
 
 - un annuaire des associations étudiantes ;
-- le suivi et l’actualisation des chartes demandés par les établissements ;
+- le suivi et l’actualisation des chartes demandées par l'UM ;
 - le dépôt des demandes de subventions FSDIE, via une interface unique permettant d'accéder à plusieurs financeurs.
